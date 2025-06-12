@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "CCC",
+    "CPC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "P": {
+      "item": "redefinedpipes:elite_extractor_attachment"
+    }
+  },
+  "result": {
+    "id": "redefinedpipes:ultimate_extractor_attachment"
+  }
+} 

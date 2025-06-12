@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "CCC",
+    "CPC"
+  ],
+  "key": {
+    "C": {
+      "tag": "c:ingots/gold"
+    },
+    "P": {
+      "item": "redefinedpipes:basic_extractor_attachment"
+    }
+  },
+  "result": {
+    "id": "redefinedpipes:improved_extractor_attachment"
+  }
+} 

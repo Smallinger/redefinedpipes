@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "redefinedpipes:block/pipe/energy/basic/core"
+    }
+  }
+}

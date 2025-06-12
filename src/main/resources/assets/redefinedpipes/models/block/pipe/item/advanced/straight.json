@@ -1,0 +1,8 @@
+{
+  "parent": "redefinedpipes:block/pipe/item/straight",
+  "textures": {
+    "0": "redefinedpipes:blocks/pipe/item/advanced",
+    "1": "redefinedpipes:blocks/pipe/item/connector",
+    "particle": "redefinedpipes:blocks/pipe/item/advanced"
+  }
+}

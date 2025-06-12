@@ -1,0 +1,6 @@
+{
+  "parent": "redefinedpipes:block/pipe/attachment/attachment",
+  "textures": {
+    "attachment": "redefinedpipes:blocks/pipe/attachment/inventory_attachment"
+  }
+}

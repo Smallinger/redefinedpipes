@@ -1,0 +1,7 @@
+{
+  "parent": "redefinedpipes:block/pipe/item/core",
+  "textures": {
+    "0": "redefinedpipes:blocks/pipe/energy/improved",
+    "particle": "redefinedpipes:blocks/pipe/energy/improved"
+  }
+}

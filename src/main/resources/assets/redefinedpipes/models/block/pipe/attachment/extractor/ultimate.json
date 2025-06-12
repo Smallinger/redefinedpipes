@@ -1,0 +1,6 @@
+{
+  "parent": "redefinedpipes:block/pipe/attachment/attachment",
+  "textures": {
+    "1": "redefinedpipes:blocks/pipe/attachment/extractor/ultimate"
+  }
+}

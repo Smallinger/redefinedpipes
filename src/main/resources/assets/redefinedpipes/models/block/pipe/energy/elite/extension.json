@@ -1,0 +1,7 @@
+{
+  "parent": "redefinedpipes:block/pipe/item/extension",
+  "textures": {
+    "0": "redefinedpipes:blocks/pipe/item/connector",
+    "particle": "redefinedpipes:blocks/pipe/item/connector"
+  }
+}
